@@ -24,7 +24,7 @@ body, html {
   height: 100vh;
   width: 64vw;
   background-color: rgb(255, 0, 179);
-  background-image: url("1735726849982.jpg");
+  background-image: url("srk1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -84,7 +84,7 @@ h1 {
   top: 25%;
   left: 75%;
   transform: translate(0px, -50px);
-  background-image: url("1735726849977.jpg");
+  background-image: url("srk2.jpg");
   background-size: cover;
   background-position: center;
 }
